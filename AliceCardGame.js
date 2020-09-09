@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="R6Mezt47KkXSNacu5LVOJIRwMMBnCd_r47tNKEBOBxw" />
 /*-
     -  Alice has invented a new card game to play with Bob. Alice made a deck of
     -  cards with random values between 1 and 52. Bob picks 5 cards. Then, he has
